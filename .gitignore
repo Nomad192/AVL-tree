@@ -1,0 +1,10 @@
+*
+!/scr/
+
+!*.cpp
+!*.hpp
+!*.md
+!CMakeLists.txt
+!*.git*
+
+build
